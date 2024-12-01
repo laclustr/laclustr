@@ -1,15 +1,11 @@
-## Hi there 👋
-
-**laclustr/laclustr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="left">Hi! 👋 I'm Grant, a Student from Ohio</h2>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=laclustr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=laclustr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages" /> </div>
+📱 Connect with Me:
+<div align="left"> <a href="https://www.youtube.com/@l.a.c.l.u.s.t.r" target="_blank"> <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="YouTube" /> </a> <a href="https://www.instagram.com/l.a.c.l.u.s.t.r/" target="_blank"> <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram" /> </a> <a href="http://discordapp.com/users/554313063646494740" target="_blank"> <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord" /> </a> <a href="mailto:gant.a.vance@gmail.com" target="_blank"> <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Email" /> </a> <a href="https://www.linkedin.com/in/grant-v-9623b9305/" target="_blank"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" /> </a> </div>
+💻 My Tech Stack:
+<div align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="30" alt="Rust" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" /> </div>
+🎵 What I'm Listening To:
+<div align="center"> <a href="https://open.spotify.com/user/22ydyqzygf4vyt2mjva55whvi"> <img src="https://spotify-recently-played-readme.vercel.app/api?user=22ydyqzygf4vyt2mjva55whvi&count=3&unique=false" alt="Spotify Recently Played" /> </a> </div>
+🐍 GitHub Activity Snake:
+<img src="https://raw.githubusercontent.com/laclustr/laclustr/output/snake.svg" alt="Snake Animation" />
+This revision improves the language and structure, providing clear sections for personal introduction, stats, social links, tech stack, and dynamic content. Each section has a clear purpose, making it user-friendly and visually appealing.
